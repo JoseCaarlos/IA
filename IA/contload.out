@@ -1,0 +1,96 @@
+
+CONTAINER LOADING PROBLEM 25-115 90 20
+ 1 : n  76 fill 90.5 miss 0 time   0.74
+ 2 : n  92 fill 90.1 miss 0 time   1.01
+ 3 : n  66 fill 90.4 miss 0 time   0.45
+ 4 : n  68 fill 91.4 miss 0 time   1.05
+ 5 : n  65 fill 90.3 miss 0 time   0.24
+ 6 : n  74 fill 91.0 miss 0 time   0.06
+ 7 : n 105 fill 90.3 miss 0 time   0.20
+ 8 : n  73 fill 90.6 miss 0 time   0.17
+ 9 : n  88 fill 90.7 miss 0 time   0.07
+10 : n  78 fill 90.5 miss 0 time   0.09
+11 : n  73 fill 91.6 miss 0 time   1.23
+12 : n 102 fill 92.4 miss 0 time   1.47
+13 : n 127 fill 90.2 miss 0 time   3.56
+14 : n  86 fill 91.6 miss 0 time   0.42
+15 : n  86 fill 90.6 miss 0 time   0.34
+16 : n 114 fill 90.2 miss 0 time   0.45
+17 : n  98 fill 90.7 miss 0 time   0.56
+18 : n  83 fill 92.1 miss 0 time   2.17
+19 : n  72 fill 90.6 miss 0 time   0.28
+20 : n  92 fill 90.0 miss 0 time   0.09
+mindim  = 25
+maxdim  = 115
+fillpct = 90
+maxtyp  = 20
+n       = 85.90
+fill    = 90.8
+miss    = 0.0
+time    = 0.73
+
+CONTAINER LOADING PROBLEM 25-115 90 20
+ 1 : n  76 fill 90.5 miss 0 time   0.72
+ 2 : n  92 fill 90.1 miss 0 time   0.98
+ 3 : n  66 fill 90.4 miss 0 time   0.42
+ 4 : n  68 fill 91.4 miss 0 time   1.04
+ 5 : n  65 fill 90.3 miss 0 time   0.23
+ 6 : n  74 fill 91.0 miss 0 time   0.06
+ 7 : n 105 fill 90.3 miss 0 time   0.20
+ 8 : n  73 fill 90.6 miss 0 time   0.16
+ 9 : n  88 fill 90.7 miss 0 time   0.07
+10 : n  78 fill 90.5 miss 0 time   0.08
+11 : n  73 fill 91.6 miss 0 time  51.83
+12 : n 102 fill 92.4 miss 0 time   1.45
+13 : n 127 fill 90.2 miss 0 time   3.54
+14 : n  86 fill 91.6 miss 0 time   0.42
+15 : n  86 fill 90.6 miss 0 time   0.34
+16 : n 114 fill 90.2 miss 0 time   0.45
+17 : n  98 fill 90.7 miss 0 time   0.56
+18 : n  83 fill 92.1 miss 0 time   2.16
+19 : n  72 fill 90.6 miss 0 time   0.28
+20 : n  92 fill 90.0 miss 0 time   0.09
+mindim  = 25
+maxdim  = 115
+fillpct = 90
+maxtyp  = 20
+n       = 85.90
+fill    = 90.8
+miss    = 0.0
+time    = 3.25
+
+CONTAINER LOADING PROBLEM 10-120 90  5
+ 1 : n  61 fill 91.0 miss 0 time   4.26
+ 2 : n 136 fill 90.1 miss 0 time   3.73
+ 3 : n 153 fill 90.5 miss 0 time   0.81
+ 4 : n 115 fill 90.7 miss 0 time   3.80
+
+CONTAINER LOADING PROBLEM 25-115 90 20
+ 1 : n  76 fill 90.5 miss 0 time   1.68
+ 2 : n  92 fill 90.1 miss 0 time   2.23
+ 3 : n  66 fill 90.4 miss 0 time   0.98
+ 4 : n  68 fill 91.4 miss 0 time   2.35
+ 5 : n  65 fill 90.3 miss 0 time   0.56
+ 6 : n  74 fill 91.0 miss 0 time   0.13
+ 7 : n 105 fill 90.3 miss 0 time   0.52
+ 8 : n  73 fill 90.6 miss 0 time   0.41
+ 9 : n  88 fill 90.7 miss 0 time   0.19
+10 : n  78 fill 90.5 miss 0 time   0.27
+11 : n  73 fill 91.6 miss 0 time   2.86
+12 : n 102 fill 92.4 miss 0 time   3.27
+13 : n 127 fill 90.2 miss 0 time   8.14
+14 : n  86 fill 91.6 miss 0 time   1.06
+15 : n  86 fill 90.6 miss 0 time   0.84
+16 : n 114 fill 90.2 miss 0 time   1.01
+17 : n  98 fill 90.7 miss 0 time   1.29
+18 : n  83 fill 92.1 miss 0 time   4.79
+19 : n  72 fill 90.6 miss 0 time   0.69
+20 : n  92 fill 90.0 miss 0 time   0.22
+mindim  = 25
+maxdim  = 115
+fillpct = 90
+maxtyp  = 20
+n       = 85.90
+fill    = 90.8
+miss    = 0.0
+time    = 1.67
